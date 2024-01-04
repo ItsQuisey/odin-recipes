@@ -1,0 +1,19 @@
+* {
+background-color: rgb(145, 107, 57);
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    margin-right: auto;
+    text-align: center;
+}
